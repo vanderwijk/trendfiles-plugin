@@ -1,14 +1,14 @@
-=== OTIB Trendfiles Functions Plugin ===
-Requires at least: 3.4.1
-Tested up to: 3.4.1
-Stable tag: 0.1
+=== Trendfiles Functions Plugin ===
+Requires at least: 5.6.1
+Tested up to: 5.6.1
+Stable tag: 1.0
 
-OTIB Trendfiles Functions
+Trendfiles Functions
 
 == Description ==
 
 Bevat custom post type specificatie en andere site-specifieke functies.
 
 == Changelog ==
-= 0.1 =
+= 1.0 =
 * Eerste versie
